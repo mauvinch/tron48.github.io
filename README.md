@@ -1,0 +1,2 @@
+# tron48.github.io
+TRON48 smart contract generates dividends per day based on your investment and distribute your dividends to your balance. For example, if you invest in the 4% plan, then you will get over 100% of your first deposit in twenty eight days. The dividends generate every second and you can withdraw or reinvest your dividends each second. When you reinvest, the total investment would increase and you will get more dividends.
